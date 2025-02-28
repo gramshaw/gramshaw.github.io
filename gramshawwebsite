@@ -92,6 +92,9 @@
             
             <li id = "post-contents">
             <a href = "#post-table"> Special bonus Table!</a></li>
+
+            <li id = "post-contents">
+            <a href = "#post-four"> Three and a half Im lazy post!</a></li>
         </ul>
         
         <h2 class = "post-numbers" id = "post-one">First post</h2>
@@ -135,7 +138,7 @@
             
         </table>
 
-        <h3 class = "post numbers"> Three and a halfth post</h3>
+        <h2 class = "post numbers" id = "post-four"> Three and a halfth post</h2>
         <p>I have successfully uploaded this piece of shit lookin ass website onto the world wide web for anyone with two braincells to rub together able to view it.</p><br>
         <br>
         <p>I am on my period and fucking <strong> SORE </strong> but fucking <strong> STRONG </strong>.</p> <br>
